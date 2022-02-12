@@ -1,4 +1,12 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Nayla Yaumisita**.
+
+Saya seorang mahasiswa jurusan Teknik Elektro di Universitas Indonesia.
+
+Untuk saat ini saya sedang belajar programming lebih lanjut!
+
+Reach me at: [E-mail](yaumisita@gmail.com) - [LinkedIn](https://www.linkedin.com/in/nayla-yaumisita/)
 
 <!--
 **spacemundane/spacemundane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
